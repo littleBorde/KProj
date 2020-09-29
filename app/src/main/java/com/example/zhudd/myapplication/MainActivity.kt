@@ -1,4 +1,4 @@
-package com.example.ex_zhudd001.myapplication
+package com.example.zhudd.myapplication
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

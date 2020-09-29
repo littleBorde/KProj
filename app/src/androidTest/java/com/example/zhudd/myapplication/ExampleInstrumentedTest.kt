@@ -1,4 +1,4 @@
-package com.example.ex_zhudd001.myapplication
+package com.example.zhudd.myapplication
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
