@@ -60,7 +60,7 @@
                 android:textColor="@color/white"
                 android:textSize="14sp"
                 android:layout_marginEnd="16dp"
-                android:background="@drawable/finish_bg"
+                android:background="@drawable/logo"
                 android:layout_marginRight="16dp">
             </TextView>
 
